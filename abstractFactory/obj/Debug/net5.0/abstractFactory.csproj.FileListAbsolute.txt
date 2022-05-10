@@ -1,0 +1,16 @@
+C:\Fontes\Estudos\study_csharp_architecture_designPatterns_abstractFactory\abstractFactory\bin\Debug\net5.0\abstractFactory.exe
+C:\Fontes\Estudos\study_csharp_architecture_designPatterns_abstractFactory\abstractFactory\bin\Debug\net5.0\abstractFactory.deps.json
+C:\Fontes\Estudos\study_csharp_architecture_designPatterns_abstractFactory\abstractFactory\bin\Debug\net5.0\abstractFactory.runtimeconfig.json
+C:\Fontes\Estudos\study_csharp_architecture_designPatterns_abstractFactory\abstractFactory\bin\Debug\net5.0\abstractFactory.runtimeconfig.dev.json
+C:\Fontes\Estudos\study_csharp_architecture_designPatterns_abstractFactory\abstractFactory\bin\Debug\net5.0\abstractFactory.dll
+C:\Fontes\Estudos\study_csharp_architecture_designPatterns_abstractFactory\abstractFactory\bin\Debug\net5.0\ref\abstractFactory.dll
+C:\Fontes\Estudos\study_csharp_architecture_designPatterns_abstractFactory\abstractFactory\bin\Debug\net5.0\abstractFactory.pdb
+C:\Fontes\Estudos\study_csharp_architecture_designPatterns_abstractFactory\abstractFactory\obj\Debug\net5.0\abstractFactory.csproj.AssemblyReference.cache
+C:\Fontes\Estudos\study_csharp_architecture_designPatterns_abstractFactory\abstractFactory\obj\Debug\net5.0\abstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Fontes\Estudos\study_csharp_architecture_designPatterns_abstractFactory\abstractFactory\obj\Debug\net5.0\abstractFactory.AssemblyInfoInputs.cache
+C:\Fontes\Estudos\study_csharp_architecture_designPatterns_abstractFactory\abstractFactory\obj\Debug\net5.0\abstractFactory.AssemblyInfo.cs
+C:\Fontes\Estudos\study_csharp_architecture_designPatterns_abstractFactory\abstractFactory\obj\Debug\net5.0\abstractFactory.csproj.CoreCompileInputs.cache
+C:\Fontes\Estudos\study_csharp_architecture_designPatterns_abstractFactory\abstractFactory\obj\Debug\net5.0\abstractFactory.dll
+C:\Fontes\Estudos\study_csharp_architecture_designPatterns_abstractFactory\abstractFactory\obj\Debug\net5.0\ref\abstractFactory.dll
+C:\Fontes\Estudos\study_csharp_architecture_designPatterns_abstractFactory\abstractFactory\obj\Debug\net5.0\abstractFactory.pdb
+C:\Fontes\Estudos\study_csharp_architecture_designPatterns_abstractFactory\abstractFactory\obj\Debug\net5.0\abstractFactory.genruntimeconfig.cache
